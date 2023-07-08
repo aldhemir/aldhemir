@@ -7,7 +7,7 @@ I work on various projects involving Software Engineering, Data Science, and Dat
 
 ## Contacts and social media
 <a href="https://www.linkedin.com/in/aldhemir-macedo-2076a8170/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
-<a href="aldhemir.macedo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
 
 ## Languages & tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
