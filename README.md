@@ -5,11 +5,11 @@ Hello, my name is Aldhemir Macedo, and I'm here today to share with you my passi
 I work on various projects involving Software Engineering, Data Science, and Data Engineering. I'm passionate about learning new things and sharing my knowledge with others. I have a strong passion for education, entrepreneurship, and technology. That's why I see the field of development as a great bridge between the business and technology domains. I also believe that my own development contributes to the development of others, and vice versa. I love learning new concepts, experiencing new challenges, and using my knowledge and experience to make an impact on other people's lives.
 
 
-##🌐 Contacts and social media
+## Contacts and social media
 <a href="https://www.linkedin.com/in/aldhemir-macedo-2076a8170/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
 <a href="https://wa.me/5551992045902?text=Ol%C3%A1+vim+atrav%C3%A9s+do+GitHub"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
 
-##💻 Languages & tools
+## Languages & tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -35,13 +35,13 @@ I work on various projects involving Software Engineering, Data Science, and Dat
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AZURE](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-##📊 GitHub Stats:
+## GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldhemir&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldhemir&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-##💾 Repositório Importantes
+##Repositório Importantes
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=projeto_veu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=notificacaoSap&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
