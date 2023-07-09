@@ -42,6 +42,6 @@ I work on various projects involving Software Engineering, Data Science, and Dat
 
 
 
-## 💾 Repositório Importantes
+## 💾 Study Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=projeto_veu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=notificacaoSap&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
