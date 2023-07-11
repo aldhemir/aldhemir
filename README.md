@@ -47,7 +47,7 @@ I work on various projects involving Software Engineering, Data Science, and Dat
 ## 💾 Study Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=projeto_veu&theme=radical)](https://github.com/aldhemir/projeto_veu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=notificacaoSap&theme=radical)](https://github.com/aldhemir/notificacaoSap)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=mongodb_api&theme=radical)](https://github.com/aldhemir/mongodb_api)
+
 
 
 
