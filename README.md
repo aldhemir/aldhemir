@@ -41,11 +41,16 @@ I work on various projects involving Software Engineering, Data Science, and Dat
 ## 📊 GitHub Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldhemir&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldhemir&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=aldhemir&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldhemir&layout=compact&theme=radical)](https://github.com/aldhemir/github-readme-stats)
 
 
 ## 💾 Study Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=projeto_veu&theme=radical)](https://github.com/aldhemir/projeto_veu)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=notificacaoSap&theme=radical)](https://github.com/aldhemir/notificacaoSap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=mongodb_api&theme=radical)](https://github.com/aldhemir/mongodb_api)
+
+
+
+
+
+![Anurag's GitHub stats](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faldhemir1212%2Fhit-counter)
