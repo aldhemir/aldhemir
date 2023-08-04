@@ -4,6 +4,8 @@ Hello, my name is Aldhemir Macedo, and I'm here today to share with you my passi
 
 I work on various projects involving Software Engineering, Data Science, and Data Engineering. I'm passionate about learning new things and sharing my knowledge with others. I have a strong passion for education, entrepreneurship, and technology. That's why I see the field of development as a great bridge between the business and technology domains. I also believe that my own development contributes to the development of others, and vice versa. I love learning new concepts, experiencing new challenges, and using my knowledge and experience to make an impact on other people's lives.
 
+Link to my portfolio = https://aldhemir.github.io/
+
 
 ## 🌐 Contacts and social media
 <a href="https://www.linkedin.com/in/aldhemir-macedo-2076a8170/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
