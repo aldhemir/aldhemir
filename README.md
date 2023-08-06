@@ -52,6 +52,7 @@ Link to my portfolio = https://aldhemir.github.io/
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=mongodb_api&theme=radical)](https://github.com/aldhemir/mongodb_api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=API_Java&theme=radical)](https://github.com/aldhemir/API_Java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=crud_PHP&theme=radical)](https://github.com/aldhemir/crud_PHP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=CRUD_Back&theme=radical)](https://github.com/aldhemir/CRUD_Back)
 
 
 
