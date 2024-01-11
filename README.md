@@ -46,8 +46,8 @@ I work on various projects involving Software Engineering, Data Science, and Dat
 
 
 ## 💾 Study Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=projeto_veu&theme=radical)](https://github.com/aldhemir/projeto_veu)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=notificacaoSap&theme=radical)](https://github.com/aldhemir/notificacaoSap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=energia&theme=radical)](https://github.com/aldhemir/energia)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=api_node.js&theme=radical)](https://github.com/aldhemir/api_node.js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=mongodb_api&theme=radical)](https://github.com/aldhemir/mongodb_api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=API_Java&theme=radical)](https://github.com/aldhemir/API_Java)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aldhemir&repo=crud_PHP&theme=radical)](https://github.com/aldhemir/crud_PHP)
