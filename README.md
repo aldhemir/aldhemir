@@ -40,7 +40,6 @@ I work on various projects involving Software Engineering, Data Science, and Dat
 
 
 ## 📊 GitHub Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldhemir&show_icons=true&theme=radical)
 
 ![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=aldhemir&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldhemir&layout=compact&theme=radical)](https://github.com/aldhemir/github-readme-stats)
 
