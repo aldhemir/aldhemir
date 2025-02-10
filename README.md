@@ -9,7 +9,7 @@ I work on various projects involving Software Engineering, Data Science, and Dat
 ## 🌐 Contacts and social media
 <a href="https://www.linkedin.com/in/aldhemir-macedo-2076a8170/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
 <a href="https://www.instagram.com/aldhe_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
-<a href="https://wa.me/5551992045902?text=Ol%C3%A1+vim+atrav%C3%A9s+do+GitHub"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
+<a href="https://wa.me/5551994190721?text=Ol%C3%A1+vim+atrav%C3%A9s+do+GitHub"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" class="media-object  img-responsive img-thumbnail"></a>
 
 ## 💻 Languages & tools
 
