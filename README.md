@@ -14,7 +14,7 @@
 
 ## 📢 About me
 
-Hello, my name is **Aldhemir Macedo*, and I'm here today to share with you my passion for the field of development.
+Hello, my name is **Aldhemir Macedo**, and I'm here today to share with you my passion for the field of development.
 
 I work on various projects involving Software Engineering, Data Science, and Data Engineering. I'm passionate about learning new things and sharing my knowledge with others. I have a strong passion for education, entrepreneurship, and technology. That's why I see the field of development as a great bridge between the business and technology domains. I also believe that my own development contributes to the development of others, and vice versa. I love learning new concepts, experiencing new challenges, and using my knowledge and experience to make an impact on other people's lives.
 
