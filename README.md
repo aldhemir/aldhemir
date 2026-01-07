@@ -27,7 +27,7 @@ I work on various projects involving Software Engineering, Data Science, and Dat
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="https://wa.me/5551994190721?text=Ol%C3%A1+vim+atrav%C3%A9s+do+GitHub">
+  <a href="https://wa.me/5551992858659?text=Ol%C3%A1+vim+atrav%C3%A9s+do+GitHub">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
