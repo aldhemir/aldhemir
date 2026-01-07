@@ -35,6 +35,7 @@ My goal is to use my experience to impact lives through technology, always embra
 <div align="center">
 
 **Languages**<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -79,3 +80,6 @@ My goal is to use my experience to impact lives through technology, always embra
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+  <sub>Developed with ❤️ by Aldhemir Macedo</sub>
+</div>
