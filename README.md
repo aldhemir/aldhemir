@@ -79,6 +79,3 @@ My goal is to use my experience to impact lives through technology, always embra
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-<div align="center">
-  <sub>Developed with ❤️ by Aldhemir Macedo</sub>
-</div>
